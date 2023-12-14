@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-COMPATIBLE" content="IF=EDGE" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+     
+      .firstdiv{
+         color: blue;
+      }
+
+
+      .seconddiv{
+         color:blueviolet;
+         border: 2px solid red;
+      }
+    </style>
+    <title>Document</title>
+   
+   
+   
+</head>
+<body>
+   <!-- here we are going to add css in div tags with the help of internal css  -->
+   <div class="firstdiv">
+      <h1>hello world</h1>
+      <p>
+         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium, unde.
+      </p>
+   </div>
+   <div class="seconddiv">
+      <h2>
+         hello duniya
+      </h2>
+      <p>
+         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Excepturi consectetur iste distinctio aliquam atque fuga tempora non nostrum explicabo repudiandae.
+      </p>
+   </div>
+</body>
+</html>
