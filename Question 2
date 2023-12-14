@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Document</title>
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;1,800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital@1&family=Open+Sans:ital,wght@0,300;1,800&family=Poppins:ital,wght@1,300&display=swap" rel="stylesheet">
+   <style>
+      .para1{
+         color: #0000ff;
+         background-color: beige;
+         font-weight: 200;
+         font-family: 'Open Sans', sans-serif;;
+      }
+      .para2{
+         color: #e0fe19;
+         background-color:gray;
+         font-style: italic;
+         
+      }
+      .para3{
+         color: #fa0c5f;
+         background-color:whitesmoke;
+         font-family: 'Merriweather', serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+         
+         
+      }
+      .para4{
+         color: #11fc38;
+         background-color: aqua;
+         
+      }
+
+
+     
+   </style>
+</head>
+<body>
+   <div>
+      <p class="para1">
+         Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi qui quia rerum vero. Repellendus, hic fugiat voluptatibus a veniam eveniet. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam, reiciendis minima! Delectus, repellat cum quo a maxime veritatis! Hic, voluptatibus.
+      </p>
+      <p class="para2">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. A neque vitae magni voluptas doloribus earum beatae illo enim ipsum nemo quas facilis eius dicta quod qui recusandae quibusdam assumenda est eveniet minima, in molestiae impedit commodi aliquid! Ut, numquam a?
+      </p>
+      <p class="para3">
+         Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae voluptates officia ad aperiam, quaerat aut explicabo eaque id dignissimos nam doloribus rem pariatur ullam, delectus commodi exercitationem ipsa totam ab. Autem veritatis deserunt iusto doloribus, tempora laboriosam, dolorem, nihil accusantium numquam eos architecto fuga suscipit reprehenderit molestiae odit odio quis!
+   
+      </p>
+      <p class="para4">
+         Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat dolorum fugit similique illo neque alias sequi sunt corrupti officiis accusamus a doloremque doloribus perspiciatis inventore sed ipsum, delectus illum accusantium! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam, reiciendis minima! Delectus, repellat cum quo a maxime veritatis! Hic, voluptatibus. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam, reiciendis minima! Delectus, repellat cum quo a maxime veritatis! Hic, voluptatibus. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam, reiciendis minima! Delectus, repellat cum quo a maxime veritatis! Hic, voluptatibus.
+      </p>
+     
+
+
+   </div>
+</body>
+</html>
