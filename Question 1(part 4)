@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-COMPATIBLE" content="IF=EDGE" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
+    <title>Document</title>
+   <link rel="stylesheet" href="./style.css">
+   <style>
+
+
+.firstdiv{
+    color:yellow;
+ }
+
+
+ .seconddiv{
+    color:blue;
+    border: 2px dotted red;
+ }
+   </style>
+   
+   
+</head>
+<body>
+   <!-- here now we are going to target the same elements with inline,internal and external css  -->
+   <div class="firstdiv" style="color: green;">
+      <h1>hello world</h1>
+      <p>
+         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium, unde.
+      </p>
+   </div>
+   <div class="seconddiv" style="color: brown; border: 2px dashed red;">
+      <h2>
+         hello duniya
+      </h2>
+      <p>
+         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Excepturi consectetur iste distinctio aliquam atque fuga tempora non nostrum explicabo repudiandae.
+      </p>
+   </div>
+</body>
+</html>
+
+CSS CODE:-
+.firstdiv{
+    color: blue;
+ }
+
+
+ .seconddiv{
+    color:blueviolet;
+    border: 2px solid red;
+ }
