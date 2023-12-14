@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Document</title>
+   <style>
+      .label1{
+         background-color: blue;
+         color:rgb(255, 255, 0 ,1);
+      }
+      .label2{
+         background-color:burlywood;
+         color:rgb(249, 16, 32);
+      }
+      .label3{
+         background-color: aquamarine;
+         color:rgb(20, 250, 177);
+      }
+
+
+      .label4{
+         background-color: aqua;
+         color:rgb(252, 16, 233);
+      }
+   </style>
+</head>
+<body>
+   <FOrm>
+      <label for="name">Enter your name:</label>
+    <input type="text" id="name" name="username" class="label1">
+    <br>
+    <br>
+    <label for="address">Enter your address</label>
+    <textarea name="useraddress" id="address" cols="20" rows="10" class="label2"></textarea>
+    <br>
+    <br>
+    <label for="dob">DOB</label>
+    <input type="date" id="dob" name="userdob" class="label3">
+    <br>
+    <br>
+    <label for="password">PASSWORD</label>
+    <input type="password" id="password" name="userpassword" class="label4">
+   </FOrm>
+</body>
+</html>
